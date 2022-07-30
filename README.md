@@ -1,3 +1,6 @@
+# This is a replication of a figma design into a react app using styledcomponents 
+Figma Doc: https://www.figma.com/file/AAqY3oekLdyDZETWQjTMmh/gpt3-(Copy)?node-id=0%3A1
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# GPT3-Styled-Components-
